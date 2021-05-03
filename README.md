@@ -13,42 +13,57 @@ The technologies used in this project include:
   * CSS
   * JavaScript
 
+# Markdown examples
 
-This is a Big Heading
-=====================
+Since this is a sample program, the code below shows different ways 
+to use markldown in a README file
 
-Sub-heading
------------
+There are two ways to create a BIG heading:
 
-Paragraphs are separated
-by a blank line.
+# This is a Big Heading 
 
-Two spaces at the end of a line  
-produce a line break.
+This is also a Big Heading
+==========================
 
-Text attributes:
-_italic_       Some systems may use *single-asterisks* for italic text
-	**bold**
-`monospace`
+## This is a Sub-heading
 
-Horizontal rule:
+This is also a Sub-heading
+--------------------------
+
+Paragraphs are just a bunch of sentences separated
+by a blank line. Lorem ipsum dolor sit amet, consectetur 
+adipiscing elit. Nullam.
+
+See, this is another paragraph. Lorem ipsum dolor sit 
+amet, consectetur adipiscing elit. Nullam.
+
+Sometimes, you want to force a line break.  In this case, 
+put two spaces at the end of a line  
+ad do you see the line break?
+
+You can add a horizontal rule like this:
 
 ---
 
-Bullet list:
+You can also set the font on text.  For example, 
+_these words are italicized_, 
+on some systems, *these worlds might be italicized*, 
+**these words are bolded**, 
+and finally, `the words use a monospace font`.
 
-  * apples
-  * oranges
-  * pears
+You can have bulleted lists:
 
-Numbered list:
+  * HTML
+  * CSS
+  * HavaScript
 
-  1. lather
-  2. rinse
-  3. repeat
+You also can have numbered lists:
 
+  1. HTML
+  2. CSS
+  3. JavaScript
 
-For more information, click [here](http://example.com)
+You can add links.  For more information, click [here](https://en.wikipedia.org/wiki/Markdown)
 
-
-![Image](images/markdown/my-picture.png "icon")
+And to add an image, try this:  
+![Image](images/readme-images/dana.jpg "icon")
