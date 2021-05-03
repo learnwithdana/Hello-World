@@ -39,7 +39,7 @@ amet, consectetur adipiscing elit. Nullam.
 
 Sometimes, you want to force a line break.  In this case, 
 put two spaces at the end of a line  
-ad do you see the line break?
+and do you see the line break?
 
 You can add a horizontal rule like this:
 
@@ -47,7 +47,7 @@ You can add a horizontal rule like this:
 
 You can also set the font on text.  For example, 
 _these words are italicized_, 
-on some systems, *these worlds might be italicized*, 
+on some systems *these worlds might be italicized*, 
 **these words are bolded**, 
 and finally, `the words use a monospace font`.
 
