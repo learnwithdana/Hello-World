@@ -16,7 +16,7 @@ The technologies used in this project include:
 # Markdown examples
 
 Since this is a sample program, the code below shows different ways 
-to use markldown in a README file
+to use markdown in a README file
 
 There are two ways to create a BIG heading:
 
