@@ -65,5 +65,19 @@ You also can have numbered lists:
 
 You can add links.  For more information, click [here](https://en.wikipedia.org/wiki/Markdown)
 
+If you want to add formatted code to markdown, use backticks before and after it like this:
+
+```
+<!DOCTYLE html>
+<html lang="en">
+  <head>
+    <title>Page Title</title>
+  </head>
+  <body>
+    <!-- body markup goes here -->
+  </body>
+</html>
+```
+
 And to add an image, try this:  
 ![Image](images/readme-images/dana.jpg "icon")
