@@ -55,7 +55,7 @@ You can have bulleted lists:
 
   * HTML
   * CSS
-  * HavaScript
+  * JavaScript
 
 You also can have numbered lists:
 
